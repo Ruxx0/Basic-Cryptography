@@ -31,17 +31,17 @@ Run the python script generateAkey.py which creates a file called secret.key fil
 <br />
  <br />
 " Command:  <br/>
-<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<img src="" height="80%" width="80%" alt="cryptography"/>
 <br />
  <br />
 " Command:  <br/>
-<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<img src="" height="80%" width="80%" alt="cryptography"/>
 <br />
  <br />
  " Command:  <br/>
-<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<img src="" height="80%" width="80%" alt="cryptography"/>
 <br />
  <br />
 " TOO TIRED TO CONTINUE   <br/>
-<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<img src="" height="80%" width="80%" alt="cryptography"/>
 <br />
