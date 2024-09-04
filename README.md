@@ -26,22 +26,22 @@ Run the python script generateAkey.py which creates a file called secret.key fil
 <img src="https://i.imgur.com/XOG83rr.png" height="80%" width="80%" alt="generateAkey.py"/>
 <br />
  <br />
-Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
+ " Command:  <br/>
 <img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
  <br />
-Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
-<img src="https://i.imgur.com/As6Lquh.png" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+" Command:  <br/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
  <br />
-Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
-<img src="https://i.imgur.com/As6Lquh.png" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+" Command:  <br/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
  <br />
-Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
-<img src="https://i.imgur.com/As6Lquh.png" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+ " Command:  <br/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
  <br />
-Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
-<img src="https://i.imgur.com/As6Lquh.png" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+" TOO TIRED TO CONTINUE   <br/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
