@@ -18,5 +18,9 @@ Encrypting and Decrypting a file using python and cryptography 43.0.1
 <br />
   <br />
 Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
-<img src="https://i.imgur.com/As6Lquh.png" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
+<br />
+ <br />
+Find ip Address using "ifconfig on our metasploitable " Command:  <br/>
+<img src="" height="80%" width="80%" alt="Homelab setup & penetrating metasploitable Steps"/>
 <br />
